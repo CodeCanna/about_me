@@ -1,0 +1,35 @@
+body {
+	background-color: gray;
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+}
+
+h1 {
+	text-align: center;
+}
+
+div {
+	margin: 5px;
+	border-radius: 50px;
+}
+
+div#about-me {
+	background-color: lightgray;
+	text-align: center;
+	padding: 10px;
+}
+
+div#about-list {
+	background-color: lightgray;
+	text-align: center;
+}
+
+div#me {
+	background-color: lightgray;
+	text-align: center;
+}
+
+div#me img {
+	padding: 10px;
+}
